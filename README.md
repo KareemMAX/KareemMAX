@@ -23,7 +23,7 @@ Hey, it's me, Kareem Morsy. I'm currently pursuing a bachelor degree in computer
 #### Muslaty Public Transport App
 
 [![Get it on Google Play](https://img.shields.io/badge/Get_it_on_Google_Play-black?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.fmfortravels)  
-Muslaty (My transportation) app helps users to find the nearest line to their place. And, it tracks current available buses in real-time.
+Muslaty (My transportation) app helps users to find the nearest bus line to their place. And, it tracks current available buses in real-time.
 
 ### 🎨 Hobby projects
 
@@ -72,18 +72,3 @@ Muslaty (My transportation) app helps users to find the nearest line to their pl
 
 - [Chat room through TCP network](https://github.com/KareemMAX/ClientServer)
 - [SMTP Emulator](https://github.com/KareemMAX/SMTP-Emulator)
-
-<!--
-**KareemMAX/KareemMAX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
