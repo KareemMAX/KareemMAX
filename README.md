@@ -16,7 +16,7 @@ Hey, it's me, Kareem Morsy. I'm currently pursuing a bachelor degree in computer
 - Cloud computing
 - Cryptography
 
-## 👨🏻‍💻 What projects did I make
+## 👨🏻‍💻 Projects I made
 
 ### 💼 Freelance projects
 
