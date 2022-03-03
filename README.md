@@ -31,6 +31,7 @@ Muslaty (My transportation) app helps users to find the nearest bus line to thei
 
 - [The Last Man](https://github.com/KareemMAX/LastMan)
 - [The Vagabond Builder](https://github.com/KareemMAX/TheVagabondBuilder) (GGJ 2020)
+- [The Adventures of Tindiana Jones](https://github.com/Antonyesk601/TindianaJones) (EGD Quarantine Jam)
 
 #### 🧪 Experiments
 
