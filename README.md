@@ -39,13 +39,17 @@ Muslaty (My transportation) app helps users to find the nearest bus line to thei
 - [TicTacTeo bot](https://github.com/KareemMAX/TicTacToe)
 - [Happy birthday!](https://github.com/KareemMAX/happy-birthday) - a birthday countdown
 
+#### 🤖 AI
+
+- [Cats vs. Dogs classifier](https://github.com/KareemMAX/CatsDogsClassifier) - using Tensorflow and Keras
+- [Neural network](https://github.com/KareemMAX/NeuralNetwork) from scratch
+- [Logistic regression](https://github.com/KareemMAX/LogisticRegression) on MNIST dataset
+
 #### 🗝 Legacy projects
 
 - [Minecraft Skinner](https://github.com/KareemMAX/Minecraft-Skiner) - Minecraft skin editor (2016)
 - [Breaker Ball](https://github.com/KareemMAX/Breaker-Ball) - Breakout clone with OpenGL (2016)
 - [Calculator](https://github.com/KareemMAX/Calculator) (2016)
-- [X-O game](https://github.com/KareemMAX/xo-game) - TicTacToe (2014)
-- [MouseControlClass](https://github.com/KareemMAX/MouseControlClass) - a `user32.dll` wrapper for windows mouse interactions in .NET (2014)
 
 ### 🎓 University projects
 
