@@ -53,6 +53,14 @@ Muslaty (My transportation) app helps users to find the nearest bus line to thei
 
 ### 🎓 University projects
 
+#### Artificial intelligence
+
+- [Chinese checkers bot](https://github.com/KoftaCrew/ChineseCheckersBot)
+
+#### High performance computing
+
+- [KNN Parallel Algorithm](https://github.com/KoftaCrew/KNNParallelAlgorithm)
+
 #### Compression
 
 - [LZ77 compression algorithm](https://github.com/KareemMAX/lz77)
@@ -68,6 +76,8 @@ Muslaty (My transportation) app helps users to find the nearest bus line to thei
 #### Operating Systems
 
 - [CPU scheduling simulator](https://github.com/KareemMAX/CPUScheduling)
+- [Disk scheduling visualizer](https://github.com/KoftaCrew/DiskScheduling)
+- [File System Simulator](https://github.com/KoftaCrew/FileSystemSimulator), with authorization system
 
 #### Software Engineering
 
