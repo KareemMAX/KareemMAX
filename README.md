@@ -5,8 +5,12 @@
 
 Hey, it's me, Kareem Morsy. I'm currently pursuing a bachelor degree in computer science at [Cairo University](https://cu.edu.eg/Home). A passionate student who wants to explore new grounds and ideas.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=KareemMAX&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KareemMAX&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&size_weight=0.5&count_weight=0.5)
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KareemMAX&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KareemMAX&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&size_weight=0.5&count_weight=0.5" />
+</a>
 
 ## 🌱 I’m currently interested/learning in
 
