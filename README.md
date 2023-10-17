@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-kreemmorsy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kreemmorsy/)](https://www.linkedin.com/in/kreemmorsy/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kareemmax.kareemmax)
 
-Hey, it's me, Kareem Morsy. I'm a computer science graduate from [Cairo University](https://cu.edu.eg/Home), currently working at [Ivy](https://unify.ai). A passionate programmer who wants to explore new grounds and ideas.
+Hey, it's me, Kareem Morsy. I'm a computer science graduate from [Cairo University](https://cu.edu.eg/Home) (3rd of my class), currently working at [Ivy](https://unify.ai). A passionate programmer who wants to explore new grounds and ideas.
 
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KareemMAX&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
